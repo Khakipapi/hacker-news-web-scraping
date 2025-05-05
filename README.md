@@ -1,9 +1,3 @@
-Here’s a complete README file in Markdown format for your project, including a sample image section.
-
-You can replace the image link (`https://via.placeholder.com/800x400.png?text=Hacker+News+Scraper`) with a real screenshot or diagram if you have one.
-
----
-
 # Hacker News Scraper
 
 ![Hacker News Scraper](https://via.placeholder.com/800x400.png?text=Hacker+News+Scraper)
@@ -28,14 +22,7 @@ This Python script scrapes the [Hacker News](https://news.ycombinator.com/) fron
 
 ## Installation
 
-1. Clone the repository or download the script.
-
-```bash
-git clone <your-repo-url>
-cd <your-project-folder>
-```
-
-2. Install the required dependencies.
+1. Install the required dependencies.
 
 ```bash
 pip install requests beautifulsoup4
@@ -105,6 +92,3 @@ Example output:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-Would you like me to draft a `LICENSE` file or a `requirements.txt` as well? Let me know!
