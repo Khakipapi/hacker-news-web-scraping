@@ -1,7 +1,5 @@
 # Hacker News Scraper
 
-![Hacker News Scraper](https://via.placeholder.com/800x400.png?text=Hacker+News+Scraper)
-
 ## Introduction
 
 This Python script scrapes the [Hacker News](https://news.ycombinator.com/) front page to extract and display the top articles with more than 99 upvotes. It uses the `requests` library for HTTP requests and `BeautifulSoup` for HTML parsing, then sorts the results by vote count.
@@ -92,3 +90,6 @@ Example output:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+---
+
+Would you like me to draft a `LICENSE` file or a `requirements.txt` as well? Let me know!
